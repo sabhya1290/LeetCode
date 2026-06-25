@@ -47,8 +47,6 @@ The repository is organized by topic to keep the solutions easy to navigate:
 ---
 
 ## 📈 Next Steps & Goals
-* [ ] Master the **Two Pointers** technique.
-* [ ] Deep dive into **Sliding Window** problems.
 * [ ] Start practicing foundational **Linked List** challenges.
 
 
