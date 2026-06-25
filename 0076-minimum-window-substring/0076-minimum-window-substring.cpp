@@ -1,43 +1,20 @@
 class Solution {
 public:
     string minWindow(string s, string t) {
-        if (s.length() < t.length()) return "";
-
-        unordered_map<char, int> charCount;
-        for (char ch : t) {
-            charCount[ch]++;
-        }
-
-        int targetCharsRemaining = t.length();
-        int minWindow[2] = {0, INT_MAX};
-        int left = 0;
-
-        for (int right = 0; right < s.length(); right++) {
-            char ch = s[right];
-            if (charCount.find(ch) != charCount.end() && charCount[ch] > 0) {
-                targetCharsRemaining--;
-            }
-            charCount[ch]--;
-
-            if (targetCharsRemaining == 0) {
-                while (true) {
-                    char charAtStart = s[left];
-                    if (charCount.find(charAtStart) != charCount.end() && charCount[charAtStart] == 0) {break;}
-                    charCount[charAtStart]++;
-                    left++;
+        vector<int> mp(128, 0);
+        for (char c : t) mp[c]++;
+        int counter = t.size(), begin = 0, end = 0, d = INT_MAX, head = 0;
+        while (end < s.size()) {
+            if (mp[s[end++]]-- > 0) counter--;
+            while (counter==0) {
+                if (end-begin < d) {
+                    head = begin;
+                    d = end-head;
                 }
-
-                if (right - left < minWindow[1] - minWindow[0]) {
-                    minWindow[0] = left;
-                    minWindow[1] = right;
-                }
-
-                charCount[s[left]]++;
-                targetCharsRemaining++;
-                left++;
+                if (mp[s[begin++]]++ == 0) counter++;
             }
         }
-
-        return minWindow[1] >= s.length() ? "" : s.substr(minWindow[0], minWindow[1] - minWindow[0] + 1);        
+        if (d == INT_MAX) return "";
+        else return s.substr(head,d);
     }
 };
