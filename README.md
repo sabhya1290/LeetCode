@@ -57,6 +57,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 ## Hash Table
 |  |
 | ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/sabhya1290/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sabhya1290/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sabhya1290/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
@@ -66,12 +67,14 @@ The repository is organized by topic to keep the solutions easy to navigate:
 ## Sliding Window
 |  |
 | ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/sabhya1290/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sabhya1290/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sabhya1290/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sabhya1290/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Array
 |  |
 | ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/sabhya1290/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sabhya1290/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sabhya1290/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Math
@@ -83,4 +86,8 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/sabhya1290/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sabhya1290/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Counting
+|  |
+| ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/sabhya1290/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
