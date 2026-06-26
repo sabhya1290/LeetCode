@@ -18,7 +18,6 @@ public:
 
             if(slow == fast){
                 slow = head;
-
                 while(slow != fast){
                     slow = slow->next;
                     fast = fast->next;
