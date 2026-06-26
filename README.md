@@ -95,4 +95,9 @@ The repository is organized by topic to keep the solutions easy to navigate:
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/sabhya1290/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/sabhya1290/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/sabhya1290/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
