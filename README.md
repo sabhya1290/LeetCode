@@ -84,6 +84,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sabhya1290/LeetCode/tree/master/0002-add-two-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sabhya1290/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Prefix Sum
 |  |
@@ -97,6 +98,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sabhya1290/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sabhya1290/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0092-reverse-linked-list-ii](https://github.com/sabhya1290/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/sabhya1290/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -123,6 +125,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sabhya1290/LeetCode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/sabhya1290/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/sabhya1290/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Stack
