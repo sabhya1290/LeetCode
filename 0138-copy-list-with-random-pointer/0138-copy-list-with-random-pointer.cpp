@@ -16,37 +16,36 @@ public:
 
 class Solution {
 public:
+void nextt(Node* temp){
+    while(temp){
+    Node* newn = new Node(temp->val);
+    newn->next = temp->next;
+    temp->next = newn;
+    temp = newn->next;
+    }
+}
+void ran(Node* temp){
+    while(temp){
+    if(temp->random) temp->next->random = temp->random->next;
+    else temp->next->random = temp->random;
+    temp = temp->next->next;
+    }
+}
+Node* dele(Node* temp){
+    Node* res = new Node(-1);
+    Node* dum = res;
+    while(temp){
+    res->next = temp->next;
+    temp->next = temp->next->next;
+    temp = temp->next;
+    res = res->next;
+    }
+    return dum->next;
+}
     Node* copyRandomList(Node* head) {
-                if (!head) return nullptr;
-        
-        Node* curr = head;
-        while (curr) {
-            Node* new_node = new Node(curr->val);
-            new_node->next = curr->next;
-            curr->next = new_node;
-            curr = new_node->next;
-        }
-        
-        curr = head;
-        while (curr) {
-            if (curr->random) {
-                curr->next->random = curr->random->next;
-            }
-            curr = curr->next->next;
-        }
-        
-        Node* old_head = head;
-        Node* new_head = head->next;
-        Node* curr_old = old_head;
-        Node* curr_new = new_head;
-        
-        while (curr_old) {
-            curr_old->next = curr_old->next->next;
-            curr_new->next = curr_new->next ? curr_new->next->next : nullptr;
-            curr_old = curr_old->next;
-            curr_new = curr_new->next;
-        }
-        
-        return new_head;       
+        if(head==NULL) return NULL;
+        nextt(head);
+        ran(head);
+        return dele(head);
     }
 };
