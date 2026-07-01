@@ -137,6 +137,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/sabhya1290/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/sabhya1290/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
 |  |
@@ -150,4 +151,12 @@ The repository is organized by topic to keep the solutions easy to navigate:
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/sabhya1290/LeetCode/tree/master/0148-sort-list) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/sabhya1290/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/sabhya1290/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
