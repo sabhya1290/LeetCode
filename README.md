@@ -69,6 +69,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sabhya1290/LeetCode/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/sabhya1290/LeetCode/tree/master/0076-minimum-window-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sabhya1290/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
@@ -140,6 +141,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sabhya1290/LeetCode/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/sabhya1290/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sabhya1290/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/sabhya1290/LeetCode/tree/master/0234-palindrome-linked-list) |
