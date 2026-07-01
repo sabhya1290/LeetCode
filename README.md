@@ -85,6 +85,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/sabhya1290/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/sabhya1290/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/sabhya1290/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sabhya1290/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sabhya1290/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -149,6 +150,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0232-implement-queue-using-stacks](https://github.com/sabhya1290/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/sabhya1290/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/sabhya1290/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/sabhya1290/LeetCode/tree/master/0503-next-greater-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -176,4 +178,5 @@ The repository is organized by topic to keep the solutions easy to navigate:
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/sabhya1290/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/sabhya1290/LeetCode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
