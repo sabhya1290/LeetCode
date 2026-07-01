@@ -1,4 +1,4 @@
-<img width="250" height="280" alt="despicablememinionsGIF" src="https://github.com/user-attachments/assets/ef8a6e90-6b8d-489f-b88f-341032213198" /># LeetCode
+# LeetCode
 # 🚀 LeetCode Journey: Learning & Progress
 
 Welcome to my LeetCode repository! This project is a dedicated space where I track my daily progress, practice coding challenges, and build a strong foundation in Data Structures and Algorithms (DSA). 
@@ -6,7 +6,7 @@ Welcome to my LeetCode repository! This project is a dedicated space where I tra
 ## 🎯 Current Status
 * **Goal:** Master core algorithmic patterns and prepare for technical interviews.
 * **Current Focus:** Moving from foundational concepts to intermediate problem-solving.
-* **Languages Used:** [Insert your language, e.g., Python / Java / C++]
+* **Languages Used:**  C++
 
 ---
 
