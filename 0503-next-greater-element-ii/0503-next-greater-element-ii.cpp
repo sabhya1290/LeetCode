@@ -1,22 +1,44 @@
-class Solution {
+class Solution
+{
 public:
-    vector<int> nextGreaterElements(vector<int>& nums) {
-        int n = nums.size();
-        stack<int> st;
-        st.push(0); 
-        int prev = st.top(); 
-        vector<int> ans(n, -1);
-        
-        for(int i = 1 ; i < 2 * n ; i++){
-            while(!st.empty() && nums[st.top()] < nums[i % n]){
-                prev = st.top();
-                st.pop();
-                ans[prev] = nums[i % n];
-            }
-            if(i < n) {
-                st.push(i);
+    vector<int> nextGreaterElements(vector<int> &arr)
+    {
+        int l = arr.size();
+        pair<int, short> maxi;
+        maxi.first = arr[0];
+        maxi.second = 0;
+        for (int i = 0; i < l; i++)
+        {
+            if (arr[i] >= maxi.first)
+            {
+                maxi.first = arr[i];
+                maxi.second = i;
             }
         }
-        return ans;
+        vector<int> res;
+        stack<int> st;
+        for (int j = maxi.second; j >= 0; j--)
+        {
+            while (!st.empty() && st.top() <= arr[j])
+                st.pop();
+            if (st.empty())
+                res.push_back(-1);
+            else
+                res.push_back(st.top());
+            st.push(arr[j]);
+        }
+        for (int j = (l - 1); j > maxi.second; j--)
+        {
+            while (!st.empty() && st.top() <= arr[j])
+                st.pop();
+            if (st.empty())
+                res.push_back(-1);
+            else
+                res.push_back(st.top());
+            st.push(arr[j]);
+        }
+        reverse(res.begin(), res.begin() + maxi.second + 1);
+        reverse(res.begin() + maxi.second + 1, res.end());
+        return res;
     }
 };
