@@ -1,4 +1,4 @@
-# LeetCode
+<img width="250" height="280" alt="despicablememinionsGIF" src="https://github.com/user-attachments/assets/ef8a6e90-6b8d-489f-b88f-341032213198" /># LeetCode
 # 🚀 LeetCode Journey: Learning & Progress
 
 Welcome to my LeetCode repository! This project is a dedicated space where I track my daily progress, practice coding challenges, and build a strong foundation in Data Structures and Algorithms (DSA). 
@@ -47,7 +47,10 @@ The repository is organized by topic to keep the solutions easy to navigate:
 ---
 
 ## 📈 Next Steps & Goals
-* [ ] Start practicing foundational **Linked List** challenges.
+* [✅] Start practicing foundational **Linked List** challenges.
+* [ ]Starting Stack and Queue
+* [ ] Hashing
+* [ ] Binary search
 
 
 <!---LeetCode Topics Start-->
