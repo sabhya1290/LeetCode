@@ -1,25 +1,23 @@
 class Solution {
 public:
-    int mod=1e9+7;
     int sumSubarrayMins(vector<int>& arr) {
-        int n=arr.size();
-        int ans=0;
+        int res{};
+        arr.push_back(-1);
         vector<int> st;
-        vector<int> dp(n);
-        for(int i=0;i<n;i++){
-            while(!st.empty()&&arr[st.back()]>arr[i]){
+        st.reserve(arr.size());
+        int MOD = 1e9+7;
+        for (int i{}; i <arr.size(); ++i) {
+            while (!st.empty() and arr[i] < arr[st.back()]) {
+                int mid = st.back();
                 st.pop_back();
+                int left = st.empty()? -1 : st.back();
+                int right = i;
+                int contribution =  (right-mid) * (mid-left);
+                // cout << "Number is " << arr[mid]<< ", contribution is " << contribution << "\n"; 
+                res = (res + arr[mid] * static_cast<long long> (contribution)) % MOD;
             }
             st.push_back(i);
-            if(st.size()==1){
-             dp[i]=(arr[i])*(i+1);   
-            } else{
-                int val=st[st.size()-2];
-                dp[i]=(arr[i]*(i-val)+dp[val])%mod;
-            }
-            ans=(ans+dp[i])%mod;
-        }
-        return ans;
-        
+        }   
+        return res;
     }
 };
