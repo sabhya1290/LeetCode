@@ -88,6 +88,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0042-trapping-rain-water](https://github.com/sabhya1290/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/sabhya1290/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sabhya1290/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/sabhya1290/LeetCode/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/sabhya1290/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0992-subarrays-with-k-different-integers](https://github.com/sabhya1290/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sabhya1290/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -157,6 +158,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0234-palindrome-linked-list](https://github.com/sabhya1290/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/sabhya1290/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sabhya1290/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/sabhya1290/LeetCode/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/sabhya1290/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 ## Divide and Conquer
 |  |
@@ -194,4 +196,8 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0032-longest-valid-parentheses](https://github.com/sabhya1290/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sabhya1290/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0907-sum-of-subarray-minimums](https://github.com/sabhya1290/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/sabhya1290/LeetCode/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
