@@ -72,6 +72,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | ------- |
 | [0020-valid-parentheses](https://github.com/sabhya1290/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sabhya1290/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0067-add-binary](https://github.com/sabhya1290/LeetCode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/sabhya1290/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0402-remove-k-digits](https://github.com/sabhya1290/LeetCode/tree/master/0402-remove-k-digits) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sabhya1290/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -103,6 +104,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sabhya1290/LeetCode/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/sabhya1290/LeetCode/tree/master/0067-add-binary) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sabhya1290/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Prefix Sum
 |  |
@@ -218,6 +220,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sabhya1290/LeetCode/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/sabhya1290/LeetCode/tree/master/0735-asteroid-collision) |
 ## Greedy
 |  |
@@ -239,4 +242,8 @@ The repository is organized by topic to keep the solutions easy to navigate:
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/sabhya1290/LeetCode/tree/master/0901-online-stock-span) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/sabhya1290/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
