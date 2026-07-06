@@ -97,6 +97,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0496-next-greater-element-i](https://github.com/sabhya1290/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sabhya1290/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/sabhya1290/LeetCode/tree/master/0735-asteroid-collision) |
+| [0860-lemonade-change](https://github.com/sabhya1290/LeetCode/tree/master/0860-lemonade-change) |
 | [0907-sum-of-subarray-minimums](https://github.com/sabhya1290/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0992-subarrays-with-k-different-integers](https://github.com/sabhya1290/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sabhya1290/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -233,6 +234,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | ------- |
 | [0402-remove-k-digits](https://github.com/sabhya1290/LeetCode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/sabhya1290/LeetCode/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/sabhya1290/LeetCode/tree/master/0860-lemonade-change) |
 ## Matrix
 |  |
 | ------- |
