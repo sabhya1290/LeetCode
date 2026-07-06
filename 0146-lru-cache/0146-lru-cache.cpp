@@ -1,86 +1,84 @@
-class Node {
-public:
-    int key, val;
-    Node *prev, *next;
-
-    Node(int k, int v) {
-        key = k;
-        val = v;
-        prev = next = nullptr;
-    }
+class Node
+{
+    public:
+    int key;
+    int value;
+    short prev;
+    short next;
+    Node(int key, int value, short next) : key(key), value(value), prev(0), next(next) {}
 };
 
-class LRUCache {
-public:
-    int cap;
-    Node *head, *tail;
-    unordered_map<int, Node*> mpp;
+class LRUCache
+{
+    private:
+    vector<Node> nodes;
+    short indices[10001];
+    int capacity;
 
-    LRUCache(int capacity) {
-        cap = capacity;
-        head = new Node(-1, -1);
-        tail = new Node(-1, -1);
-
-        head->next = tail;
-        tail->prev = head;
+    public:
+    LRUCache(int capacity) : capacity(capacity + 1)
+    {        
+        memset(indices, 0, sizeof(indices));
+        nodes.reserve(this->capacity);
+        nodes.emplace_back(0, 0, 0);
     }
+    
+    int get(int key)
+    {
+        short index = indices[key];
+        if (index != 0)
+        {
+            Node& node = nodes[index];
+            
+            nodes[node.next].prev = node.prev;            
+            nodes[node.prev].next = node.next;
 
-    void insertAfterHead(Node* node) {
-        Node* curr = head->next;
+            node.prev = 0;
+            node.next = nodes[0].next;
 
-        head->next = node;
-        node->prev = head;
-        node->next = curr;
-        curr->prev = node;
-    }
+            nodes[0].next = nodes[nodes[0].next].prev = index;
 
-    void deleteNode(Node* node) {
-        Node* prevNode = node->prev;
-        Node* nextNode = node->next;
-
-        prevNode->next = nextNode;
-        nextNode->prev = prevNode;
-    }
-
-    int get(int key) {
-        if (mpp.find(key) == mpp.end())
-            return -1;
-
-        Node* node = mpp[key];
-
-        deleteNode(node);
-        insertAfterHead(node);
-
-        return node->val;
-    }
-
-    void put(int key, int value) {
-        if (mpp.find(key) != mpp.end()) {
-            Node* node = mpp[key];
-            node->val = value;
-
-            deleteNode(node);
-            insertAfterHead(node);
+            return node.value;
         }
-        else {
-            if (mpp.size() == cap) {
-                Node* node = tail->prev;
+        return -1;
+    }
 
-                mpp.erase(node->key);
-                deleteNode(node);
-                delete node;
+    void put(int key, int value)
+    {
+        short index = indices[key];
+        if (index != 0)
+        {
+            Node& node = nodes[index];
+            nodes[node.next].prev = node.prev;
+            nodes[node.prev].next = node.next;
+            
+            node.value = value;
+            node.prev = 0;
+            node.next = nodes[0].next;
+        }
+        else
+        {
+            index = nodes.size();
+            if (index == capacity)
+            {   
+                index = nodes[0].prev;
+                Node& node = nodes[index];
+                indices[node.key] = 0;
+
+                nodes[node.next].prev = node.prev;
+                nodes[node.prev].next = node.next;
+
+                node.key = key;
+                node.value = value;
+                node.prev = 0;
+                node.next = nodes[0].next;
             }
-
-            Node* newNode = new Node(key, value);
-            mpp[key] = newNode;
-            insertAfterHead(newNode);
+            else
+            {
+                nodes.emplace_back(key, value, nodes[0].next);
+            }
+            indices[key] = index;
         }
+        nodes[0].next = nodes[nodes[0].next].prev = index;
     }
 };
-
-/**
- * Your LRUCache object will be instantiated and called as such:
- * LRUCache* obj = new LRUCache(capacity);
- * int param_1 = obj->get(key);
- * obj->put(key,value);
- */
