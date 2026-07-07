@@ -110,6 +110,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0002-add-two-numbers](https://github.com/sabhya1290/LeetCode/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/sabhya1290/LeetCode/tree/master/0067-add-binary) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sabhya1290/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sabhya1290/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Prefix Sum
 |  |
 | ------- |
