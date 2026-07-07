@@ -1,41 +1,48 @@
 class Solution {
 public:
-    string convert(string s, int k) {
-      int length  =  s.length() ;
-     string ans = "" ; 
-     bool is = true ; 
-     int curr_row = 0 ; 
-     int curr_idx = 0 ; 
-     int x = (k-1)+(k-2) ;
-     int y  = x ; 
+    string convert(string s, int numRows) 
+    {
+        int n = s.size();
+        if(numRows == 1 || numRows >= n)
+        {
+            return s;
+        }    
 
-     if (k == 1 || s.length()<=k)  return s ; 
+        vector<string> str(numRows);
+        int i = 0, index = 0;
+        bool dir = true;
 
+        while(i < n)
+        {
+            str[index].push_back(s[i]);
 
-     for (int i = 0 ; i < s.length() ; i ++ )   {    
-        ans += s[curr_idx] ; 
-
-        if (curr_row > 0 && curr_row < k-1){
-            if (is){
-                curr_idx += y - 2 * curr_row + 1 ; 
+            if(index == numRows - 1)
+            {
+                dir = false;
             }
-            else {
-                curr_idx += 2*curr_row ; 
+            if(index == 0)
+            {
+                dir = true;
             }
 
-            is = !is ; 
+            if(dir)
+            {
+                index++;
+            }
+            else
+            {
+                index--;
+            }
+
+            i++;
         }
 
-        else {
-            curr_idx += (y+1) ;
+        string ans = "";
+        for(auto& st : str)
+        {
+            ans += st;
         }
 
-        if (curr_idx > length -1){
-            curr_row++ ; 
-            curr_idx = curr_row ; 
-            is = true ; 
-        }
-     }
-        return ans; 
+        return ans;
     }
 };
