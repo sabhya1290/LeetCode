@@ -1,10 +1,19 @@
 class Solution {
 public:
     long long sumAndMultiply(int n) {
-        long long x = 0, s = 0;
-        for (char c : to_string(n))
-            if (c != '0')
-                x = x * 10 + c - '0', s += c - '0';
-        return x * s;
+        long long nzd = 0;
+        long long sum = 0;
+        int i = n;
+        int j = 0;
+        while(i > 0){
+            int t = i % 10;
+            if(t != 0){
+                sum += t;
+                nzd += (t * pow(10, j));
+                j++;
+            }
+            i = i / 10;
+        }
+        return nzd * sum;
     }
 };
