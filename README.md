@@ -71,6 +71,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/sabhya1290/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/sabhya1290/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sabhya1290/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/sabhya1290/LeetCode/tree/master/0067-add-binary) |
