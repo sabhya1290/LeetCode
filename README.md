@@ -79,6 +79,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0402-remove-k-digits](https://github.com/sabhya1290/LeetCode/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/sabhya1290/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sabhya1290/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sabhya1290/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -114,12 +115,14 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0067-add-binary](https://github.com/sabhya1290/LeetCode/tree/master/0067-add-binary) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sabhya1290/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sabhya1290/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sabhya1290/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/sabhya1290/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sabhya1290/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2574-left-and-right-sum-differences](https://github.com/sabhya1290/LeetCode/tree/master/2574-left-and-right-sum-differences) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sabhya1290/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Counting
 |  |
 | ------- |
