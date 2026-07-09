@@ -94,6 +94,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sabhya1290/LeetCode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/sabhya1290/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/sabhya1290/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sabhya1290/LeetCode/tree/master/0055-jump-game) |
@@ -158,6 +159,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sabhya1290/LeetCode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sabhya1290/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/sabhya1290/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/sabhya1290/LeetCode/tree/master/0061-rotate-list) |
@@ -256,6 +258,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sabhya1290/LeetCode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/sabhya1290/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sabhya1290/LeetCode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/sabhya1290/LeetCode/tree/master/0135-candy) |
