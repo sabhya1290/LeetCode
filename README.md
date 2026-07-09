@@ -58,6 +58,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/sabhya1290/LeetCode/tree/master/0012-integer-to-roman) |
 | [0076-minimum-window-substring](https://github.com/sabhya1290/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/sabhya1290/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/sabhya1290/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -72,6 +73,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/sabhya1290/LeetCode/tree/master/0006-zigzag-conversion) |
+| [0012-integer-to-roman](https://github.com/sabhya1290/LeetCode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/sabhya1290/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sabhya1290/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/sabhya1290/LeetCode/tree/master/0067-add-binary) |
@@ -117,6 +119,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sabhya1290/LeetCode/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/sabhya1290/LeetCode/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/sabhya1290/LeetCode/tree/master/0067-add-binary) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sabhya1290/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sabhya1290/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
