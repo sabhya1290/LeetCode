@@ -95,6 +95,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0042-trapping-rain-water](https://github.com/sabhya1290/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/sabhya1290/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sabhya1290/LeetCode/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/sabhya1290/LeetCode/tree/master/0057-insert-interval) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sabhya1290/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sabhya1290/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0135-candy](https://github.com/sabhya1290/LeetCode/tree/master/0135-candy) |
