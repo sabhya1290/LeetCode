@@ -66,6 +66,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0146-lru-cache](https://github.com/sabhya1290/LeetCode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sabhya1290/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/sabhya1290/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0706-design-hashmap](https://github.com/sabhya1290/LeetCode/tree/master/0706-design-hashmap) |
 | [0992-subarrays-with-k-different-integers](https://github.com/sabhya1290/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sabhya1290/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sabhya1290/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -109,6 +110,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0455-assign-cookies](https://github.com/sabhya1290/LeetCode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/sabhya1290/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sabhya1290/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0706-design-hashmap](https://github.com/sabhya1290/LeetCode/tree/master/0706-design-hashmap) |
 | [0735-asteroid-collision](https://github.com/sabhya1290/LeetCode/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/sabhya1290/LeetCode/tree/master/0860-lemonade-change) |
 | [0907-sum-of-subarray-minimums](https://github.com/sabhya1290/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
@@ -157,6 +159,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0234-palindrome-linked-list](https://github.com/sabhya1290/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sabhya1290/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/sabhya1290/LeetCode/tree/master/0328-odd-even-linked-list) |
+| [0706-design-hashmap](https://github.com/sabhya1290/LeetCode/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/sabhya1290/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sabhya1290/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sabhya1290/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -225,6 +228,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0155-min-stack](https://github.com/sabhya1290/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/sabhya1290/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sabhya1290/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0706-design-hashmap](https://github.com/sabhya1290/LeetCode/tree/master/0706-design-hashmap) |
 | [0901-online-stock-span](https://github.com/sabhya1290/LeetCode/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
@@ -296,4 +300,8 @@ The repository is organized by topic to keep the solutions easy to navigate:
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/sabhya1290/LeetCode/tree/master/0146-lru-cache) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/sabhya1290/LeetCode/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
