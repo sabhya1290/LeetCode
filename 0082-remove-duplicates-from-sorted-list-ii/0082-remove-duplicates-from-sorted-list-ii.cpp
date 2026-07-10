@@ -13,11 +13,11 @@ public:
     ListNode* deleteDuplicates(ListNode* head) {
         if(head == NULL) return head;
 
-        ListNode* dummy = new ListNode(0); // dummy node with value 0
+        ListNode* dummy = new ListNode(0); 
         dummy->next = head;
 
-        ListNode* prev = dummy; // points to the last node known to be unique.
-        ListNode* curr = head; // traverses the list
+        ListNode* prev = dummy;
+        ListNode* curr = head; 
 
         while(curr != NULL) {
             if(curr->next != NULL && curr->val == curr->next->val) {
@@ -31,7 +31,7 @@ public:
                 prev->next = curr;
             }
 
-            else { // update both prev and curr pointers
+            else { 
                 prev = curr;
                 curr = curr->next;
             }
