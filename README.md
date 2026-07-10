@@ -69,6 +69,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0992-subarrays-with-k-different-integers](https://github.com/sabhya1290/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sabhya1290/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sabhya1290/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sabhya1290/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
 | ------- |
@@ -116,6 +117,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sabhya1290/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2104-sum-of-subarray-ranges](https://github.com/sabhya1290/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2574-left-and-right-sum-differences](https://github.com/sabhya1290/LeetCode/tree/master/2574-left-and-right-sum-differences) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sabhya1290/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
 | ------- |
@@ -157,6 +159,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0328-odd-even-linked-list](https://github.com/sabhya1290/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sabhya1290/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sabhya1290/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sabhya1290/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
 | ------- |
