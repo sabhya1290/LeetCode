@@ -23,7 +23,6 @@ public:
             if(curr->next != NULL && curr->val == curr->next->val) {
                 int duplicate = curr->val;
 
-                // skip all duplicates
                 while(curr != NULL && curr->val == duplicate) {
                     curr = curr->next;
                 }
