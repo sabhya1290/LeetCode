@@ -9,18 +9,17 @@
  */
 class Solution {
 public:
-    TreeNode* findLCA(TreeNode* root, TreeNode* p, TreeNode* q){
-        if(!root) return NULL;
-        if(root == p or root == q){
-            return root;
-        }
-        TreeNode* left = findLCA(root->left, p, q);
-        TreeNode* right = findLCA(root->right, p, q);
-        if(left == NULL) return right;
-        else if(right == NULL) return left;
-        else return root;
-    }
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        return findLCA(root, p, q);
+        if (!root || root == p || root == q)
+            return root;
+        
+        TreeNode* lca_from_left = lowestCommonAncestor(root->left, p, q);
+        TreeNode* lca_from_right = lowestCommonAncestor(root->right, p, q);
+        if (lca_from_left && lca_from_right)
+            return root;
+
+        return lca_from_left ? lca_from_left : lca_from_right;
     }
 };
+
+// 看別人的 好聰明！
