@@ -60,6 +60,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | ------- |
 | [0012-integer-to-roman](https://github.com/sabhya1290/LeetCode/tree/master/0012-integer-to-roman) |
 | [0076-minimum-window-substring](https://github.com/sabhya1290/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sabhya1290/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/sabhya1290/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/sabhya1290/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sabhya1290/LeetCode/tree/master/0142-linked-list-cycle-ii) |
@@ -106,6 +107,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0057-insert-interval](https://github.com/sabhya1290/LeetCode/tree/master/0057-insert-interval) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sabhya1290/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sabhya1290/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sabhya1290/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0135-candy](https://github.com/sabhya1290/LeetCode/tree/master/0135-candy) |
 | [0239-sliding-window-maximum](https://github.com/sabhya1290/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0435-non-overlapping-intervals](https://github.com/sabhya1290/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -225,6 +227,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sabhya1290/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/sabhya1290/LeetCode/tree/master/0148-sort-list) |
 ## Sorting
 |  |
@@ -331,6 +334,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0102-binary-tree-level-order-traversal](https://github.com/sabhya1290/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sabhya1290/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sabhya1290/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sabhya1290/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/sabhya1290/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sabhya1290/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sabhya1290/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -364,6 +368,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0102-binary-tree-level-order-traversal](https://github.com/sabhya1290/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sabhya1290/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sabhya1290/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sabhya1290/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/sabhya1290/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sabhya1290/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sabhya1290/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
