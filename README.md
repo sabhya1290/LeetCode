@@ -59,6 +59,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/sabhya1290/LeetCode/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/sabhya1290/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/sabhya1290/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sabhya1290/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/sabhya1290/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
@@ -81,6 +82,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0012-integer-to-roman](https://github.com/sabhya1290/LeetCode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/sabhya1290/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sabhya1290/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/sabhya1290/LeetCode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/sabhya1290/LeetCode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/sabhya1290/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0402-remove-k-digits](https://github.com/sabhya1290/LeetCode/tree/master/0402-remove-k-digits) |
@@ -102,6 +104,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0011-container-with-most-water](https://github.com/sabhya1290/LeetCode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/sabhya1290/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/sabhya1290/LeetCode/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/sabhya1290/LeetCode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/sabhya1290/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/sabhya1290/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/sabhya1290/LeetCode/tree/master/0057-insert-interval) |
@@ -232,6 +235,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sabhya1290/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/sabhya1290/LeetCode/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/sabhya1290/LeetCode/tree/master/0148-sort-list) |
 | [0435-non-overlapping-intervals](https://github.com/sabhya1290/LeetCode/tree/master/0435-non-overlapping-intervals) |
