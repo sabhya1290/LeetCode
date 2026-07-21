@@ -84,6 +84,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0032-longest-valid-parentheses](https://github.com/sabhya1290/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/sabhya1290/LeetCode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/sabhya1290/LeetCode/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/sabhya1290/LeetCode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/sabhya1290/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0402-remove-k-digits](https://github.com/sabhya1290/LeetCode/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/sabhya1290/LeetCode/tree/master/0678-valid-parenthesis-string) |
@@ -209,6 +210,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0020-valid-parentheses](https://github.com/sabhya1290/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sabhya1290/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sabhya1290/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/sabhya1290/LeetCode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sabhya1290/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sabhya1290/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sabhya1290/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
