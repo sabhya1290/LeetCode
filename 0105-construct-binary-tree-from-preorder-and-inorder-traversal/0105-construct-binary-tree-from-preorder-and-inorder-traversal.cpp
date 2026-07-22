@@ -10,27 +10,25 @@
  * };
  */
 class Solution {
-private:
-    unordered_map<int, int> inorder_map;
-    int preorderIdx = 0;
 public:
+    int idx = 0;
+    unordered_map<int, int> mp;
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
-        for(int i = 0; i < inorder.size(); ++i){
-            inorder_map[inorder[i]] = i;
+        for(int i = 0; i < inorder.size(); i++){
+            mp[inorder[i]] = i;
         }
-
-        TreeNode* root = buildTreeHelper(preorder, 0, preorder.size() - 1);
+        TreeNode* root = helper(preorder, 0 , preorder.size() - 1);
         return root;
     }
-    TreeNode* buildTreeHelper(vector<int>& preorder, int left, int right){
-        if(left > right) return nullptr;
+    TreeNode* helper(vector<int>& preorder, int start, int end){
+        if (start > end) return nullptr; 
 
-        int rootVal = preorder[preorderIdx++];
+        int rootVal = preorder[idx++];
         TreeNode* root = new TreeNode(rootVal);
+        int mid = mp[rootVal];
 
-        int mid = inorder_map[rootVal];
-        root->left = buildTreeHelper(preorder, left, mid - 1);
-        root->right = buildTreeHelper(preorder, mid + 1, right);
+        root->left = helper(preorder, start, mid - 1);
+        root->right = helper(preorder, mid + 1, end);
 
         return root;
     }
