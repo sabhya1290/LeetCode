@@ -87,6 +87,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0067-add-binary](https://github.com/sabhya1290/LeetCode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/sabhya1290/LeetCode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/sabhya1290/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sabhya1290/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/sabhya1290/LeetCode/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/sabhya1290/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sabhya1290/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -257,6 +258,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0155-min-stack](https://github.com/sabhya1290/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/sabhya1290/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sabhya1290/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sabhya1290/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0706-design-hashmap](https://github.com/sabhya1290/LeetCode/tree/master/0706-design-hashmap) |
 | [0901-online-stock-span](https://github.com/sabhya1290/LeetCode/tree/master/0901-online-stock-span) |
 ## Queue
@@ -352,6 +354,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0199-binary-tree-right-side-view](https://github.com/sabhya1290/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/sabhya1290/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sabhya1290/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sabhya1290/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sabhya1290/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sabhya1290/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sabhya1290/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -367,6 +370,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0145-binary-tree-postorder-traversal](https://github.com/sabhya1290/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sabhya1290/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sabhya1290/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sabhya1290/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sabhya1290/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sabhya1290/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sabhya1290/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -387,6 +391,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0199-binary-tree-right-side-view](https://github.com/sabhya1290/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/sabhya1290/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sabhya1290/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sabhya1290/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sabhya1290/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sabhya1290/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sabhya1290/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -398,6 +403,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sabhya1290/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sabhya1290/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/sabhya1290/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sabhya1290/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sabhya1290/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sabhya1290/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search
