@@ -1,32 +1,41 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
+
 class Solution {
-private:
-    void preorder(TreeNode* root, int k, unordered_set<int>& mp, bool& ans){
-        if(root == NULL )return;
-        if (mp.count(root->val)) {
-            ans = true; return;
-        }
-        else{
-            mp.insert(k - root->val);
-        }
-        preorder(root->left, k, mp, ans);
-        preorder(root->right, k, mp, ans);
-    }
 public:
+    bool twoSum(vector<int>& order, int k){
+        
+        int l = 0;
+        int h = order.size()-1;
+
+        while(l<h){
+          if(order[l] + order[h] == k){
+            return true;
+          }else if(order[l] + order[h] > k){
+              h--;
+          }else{
+              l++;
+          }
+        }
+        return false;
+    }
+    void inorder(TreeNode* root, vector<int>& order){
+
+        if(!root) return;
+
+        inorder(root->left, order);
+        order.push_back(root->val);
+        inorder(root->right, order);
+    }
     bool findTarget(TreeNode* root, int k) {
-        unordered_set<int> mp;
-        bool ans = false;
-        preorder(root, k, mp, ans);
-        return ans;
+        
+        vector<int>order;
+        inorder(root, order);
+        
+        // int res = INT_MAX;
+        // int n = order.size();
+
+        // for(int i = 1; i<n; i++){
+        //     res = min(res, (order[i]-order[i-1]));
+        // }
+       return twoSum(order, k);
     }
 };
