@@ -11,20 +11,22 @@
  */
 class Solution {
 private:
-    bool dfs(TreeNode* root, int k, unordered_set<int>& seen) {
-        if (!root) return false;
-        
-        if (seen.count(root->val)) {
-            return true;
+    void preorder(TreeNode* root, int k, unordered_set<int>& mp, bool& ans){
+        if(root == NULL )return;
+        if (mp.count(root->val)) {
+            ans = true; return;
         }
-        
-        seen.insert(k - root->val);
-        
-        return dfs(root->left, k, seen) || dfs(root->right, k, seen);
+        else{
+            mp.insert(k - root->val);
+        }
+        preorder(root->left, k, mp, ans);
+        preorder(root->right, k, mp, ans);
     }
 public:
     bool findTarget(TreeNode* root, int k) {
         unordered_set<int> mp;
-        return dfs(root, k, mp);       
+        bool ans = false;
+        preorder(root, k, mp, ans);
+        return ans;
     }
 };
