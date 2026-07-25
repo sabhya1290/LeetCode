@@ -23,12 +23,10 @@ public:
     }
     
     int next() {
-        TreeNode* curr = st.top();
+        TreeNode* tempNode=st.top();
         st.pop();
-        if(curr->right){
-            pushBack(curr->right);
-        }
-        return curr->val;
+        pushBack(tempNode->right);
+        return tempNode->val;
     }
     
     bool hasNext() {
