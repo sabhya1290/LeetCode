@@ -1,59 +1,49 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
- * };
- */
 class Codec {
 public:
-    void preorder(TreeNode* root,string& s){
-        if(!root) return;
-        
-        s += to_string(root->val) + ",";
-        preorder(root->left, s);
-        preorder(root->right, s);
-    }
-    // Encodes a tree to a single string.
+
+    // Serialize using preorder traversal
     string serialize(TreeNode* root) {
-        string s = "";
-        if(root == NULL) return s;
+        string s;
         preorder(root, s);
         return s;
     }
-    int convertStringtoInt(string& data, int& pos){ // Find ',' and return value
-        pos=data.find(',');
-        int value=stoi(data.substr(0, pos));
-        return value;
-    }
-    
-    TreeNode* deserializehelper(string& data, int min, int max) {
-        if(data.size()==0) return nullptr; 
-        
-        int pos=0;
-        int value = convertStringtoInt(data, pos); 
-        if (value < min || value > max) return nullptr; 
-        
-        TreeNode* tnode = new TreeNode(value); 
-        data=data.substr(pos+1); 
-        
-        tnode->left=deserializehelper(data, min, tnode->val); 
-        tnode->right=deserializehelper(data, tnode->val, max);
-        return tnode;
-    }
-    // Decodes your encoded data to tree.
-    TreeNode* deserialize(string data) {
-        if(data == "") return NULL;
-        return deserializehelper(data, INT_MIN, INT_MAX);
-    }
-    
-};
 
-// Your Codec object will be instantiated and called as such:
-// Codec* ser = new Codec();
-// Codec* deser = new Codec();
-// string tree = ser->serialize(root);
-// TreeNode* ans = deser->deserialize(tree);
-// return ans;
+    void preorder(TreeNode* root, string &s) {
+        if (!root) return;
+        s += to_string(root->val) + " ";
+        preorder(root->left, s);
+        preorder(root->right, s);
+    }
+
+    // Deserialize
+    TreeNode* deserialize(string data) {
+        if (data.empty()) return NULL;
+
+        vector<int> preorder;
+        stringstream ss(data);
+        int x;
+        while (ss >> x)
+            preorder.push_back(x);
+
+        int idx = 0;
+        return build(preorder, idx, INT_MIN, INT_MAX);
+    }
+
+    TreeNode* build(vector<int>& preorder, int &idx, int low, int high) {
+        if (idx == preorder.size())
+            return NULL;
+
+        int val = preorder[idx];
+
+        if (val < low || val > high)
+            return NULL;
+
+        TreeNode* root = new TreeNode(val);
+        idx++;
+
+        root->left = build(preorder, idx, low, val);
+        root->right = build(preorder, idx, val, high);
+
+        return root;
+    }
+};
