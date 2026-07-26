@@ -90,6 +90,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0076-minimum-window-substring](https://github.com/sabhya1290/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sabhya1290/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/sabhya1290/LeetCode/tree/master/0402-remove-k-digits) |
+| [0449-serialize-and-deserialize-bst](https://github.com/sabhya1290/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0678-valid-parenthesis-string](https://github.com/sabhya1290/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sabhya1290/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sabhya1290/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -267,6 +268,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0225-implement-stack-using-queues](https://github.com/sabhya1290/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sabhya1290/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sabhya1290/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/sabhya1290/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0706-design-hashmap](https://github.com/sabhya1290/LeetCode/tree/master/0706-design-hashmap) |
 | [0901-online-stock-span](https://github.com/sabhya1290/LeetCode/tree/master/0901-online-stock-span) |
 ## Queue
@@ -370,6 +372,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sabhya1290/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sabhya1290/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sabhya1290/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/sabhya1290/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/sabhya1290/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/sabhya1290/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/sabhya1290/LeetCode/tree/master/0617-merge-two-binary-trees) |
@@ -397,6 +400,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sabhya1290/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sabhya1290/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sabhya1290/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/sabhya1290/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/sabhya1290/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/sabhya1290/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sabhya1290/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -426,6 +430,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sabhya1290/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sabhya1290/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sabhya1290/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/sabhya1290/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/sabhya1290/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/sabhya1290/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/sabhya1290/LeetCode/tree/master/0617-merge-two-binary-trees) |
@@ -444,6 +449,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0104-maximum-depth-of-binary-tree](https://github.com/sabhya1290/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/sabhya1290/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sabhya1290/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/sabhya1290/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0617-merge-two-binary-trees](https://github.com/sabhya1290/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sabhya1290/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sabhya1290/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -460,6 +466,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0173-binary-search-tree-iterator](https://github.com/sabhya1290/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sabhya1290/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sabhya1290/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/sabhya1290/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/sabhya1290/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sabhya1290/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sabhya1290/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
