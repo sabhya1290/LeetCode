@@ -9,31 +9,47 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-class Node{
-    public: 
-        int mx,mn,sum;
-    Node(int mn,int mx, int sum){
-        this->mx = mx;
-        this->mn = mn;
-        this->sum = sum;
-    }
-};
 class Solution {
 public:
-    int ans = 0;
-    Node helper(TreeNode* root){
-        if(!root) return Node(INT_MAX, INT_MIN,0);
-        auto left = helper(root->left);
-        auto right = helper(root->right);
-        if(left.mx< root->val && right.mn > root->val){
-            int cursum = left.sum + right.sum + root->val;
-            ans = max(ans, cursum);
-            return Node(min(root->val, left.mn),max(root->val,right.mx),cursum);
+    class BSTInfo {
+    public:
+        int mini;
+        int maxi;
+        int sum;
+        bool isBST;
+
+        BSTInfo(int mn, int mx, int s, bool bst) {
+            mini = mn;
+            maxi = mx;
+            sum = s;
+            isBST = bst;
         }
-        return Node(INT_MIN,INT_MAX,0);
+    };
+
+    int maxSum = 0;
+
+    BSTInfo largestBSTBT(TreeNode *root) {
+        if (!root)
+            return BSTInfo(INT_MAX, INT_MIN, 0, true);
+
+        BSTInfo left = largestBSTBT(root->left);
+        BSTInfo right = largestBSTBT(root->right);
+
+        // Check if current subtree is BST
+        if (left.isBST && right.isBST && left.maxi < root->val && right.mini > root->val) {
+            int currSum = left.sum + right.sum + root->val;
+            maxSum = max(maxSum, currSum);
+            return BSTInfo(min(left.mini, root->val),
+                           max(right.maxi, root->val),
+                           currSum, true);
+        }
+
+        // Not a BST
+        return BSTInfo(INT_MIN, INT_MAX, 0, false);
     }
-    int maxSumBST(TreeNode* root) {
-        helper(root);
-        return ans;
+
+    int maxSumBST(TreeNode *root) {
+        largestBSTBT(root);
+        return maxSum;
     }
 };
