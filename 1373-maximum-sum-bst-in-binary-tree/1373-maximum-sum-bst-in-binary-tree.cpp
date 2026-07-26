@@ -6,51 +6,34 @@
  *     TreeNode *right;
  *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
  *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left),
- * right(right) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-class Box {
-public:
-    bool bst;
-    int sum;
-    int max, min;
-
-    Box() {
-        bst = 1;
-        sum = 0;
-        max = INT_MIN;
-        min = INT_MAX;
+class Node{
+    public: 
+        int mx,mn,sum;
+    Node(int mn,int mx, int sum){
+        this->mx = mx;
+        this->mn = mn;
+        this->sum = sum;
     }
 };
 class Solution {
 public:
-    Box* find(TreeNode* root, int& tsum) {
-        if (!root)
-            return new Box();
-
-        Box* lh = find(root->left, tsum);
-        Box* rh = find(root->right, tsum);
-
-        if (lh->bst && rh->bst && lh->max < root->val && rh->min > root->val) {
-            Box* head = new Box();
-            head->sum = root->val + lh->sum + rh->sum;
-            head->min = min(lh->min, root->val);
-            head->max = max(rh->max, root->val);
-
-            tsum = max(tsum, head->sum);
-            return head;
+    int ans = 0;
+    Node helper(TreeNode* root){
+        if(!root) return Node(INT_MAX, INT_MIN,0);
+        auto left = helper(root->left);
+        auto right = helper(root->right);
+        if(left.mx< root->val && right.mn > root->val){
+            int cursum = left.sum + right.sum + root->val;
+            ans = max(ans, cursum);
+            return Node(min(root->val, left.mn),max(root->val,right.mx),cursum);
         }
-
-        else {
-            Box* head = new Box();
-            head->bst = 0;
-            return head;
-        }
+        return Node(INT_MIN,INT_MAX,0);
     }
     int maxSumBST(TreeNode* root) {
-        int sum = 0;
-        find(root, sum);
-        return sum;
+        helper(root);
+        return ans;
     }
 };
