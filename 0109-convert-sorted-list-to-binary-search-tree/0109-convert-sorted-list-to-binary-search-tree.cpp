@@ -20,24 +20,32 @@
  * };
  */
 class Solution {
-private:
-    TreeNode* helper(ListNode* start, ListNode* end){
-        if(start == end) return NULL;
-        ListNode* fast = start;
-        ListNode* slow = start;
-        
-        while(fast != end && fast->next != end){
-            slow = slow->next;
-            fast = fast->next->next;
-        }
-        TreeNode* root = new TreeNode(slow->val);
-        root -> left = helper(start, slow);
-        root->right = helper(slow->next, end);
-        return root;
-    }
 public:
-    TreeNode* sortedListToBST(ListNode* head) {
-        return helper(head, NULL);
+ TreeNode* sorted(vector<int>&ans,int start,int end){
 
+    
+      
+        
+        if(start>end){
+            return nullptr;
+        }
+            int mid= start+(end-start)/2;
+
+            TreeNode* root = new TreeNode (ans[mid]);
+            root->left=sorted(ans,start,mid-1);
+           root->right= sorted(ans,mid+1,end);
+
+     return root;
+
+}
+    TreeNode* sortedListToBST(ListNode* head) {
+        vector<int>ans;
+          while(head){
+            ans.push_back(head->val);
+            head=head->next;
+        }
+          return sorted(ans,0,ans.size()-1);
+
+        
     }
 };
