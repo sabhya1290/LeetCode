@@ -10,23 +10,21 @@
  * };
  */
 class Solution {
+    vector<string> paths;
 public:
-    void paths(TreeNode* root, vector<string>& ans, string s){
-        if(root == NULL) return;
-        int val = root->val;
-        s += to_string(val) + "->";
-        if(root->left == NULL && root->right == NULL){
-            s.pop_back(); s.pop_back();
-            ans.push_back(s);
-            return;
+    void preorder(TreeNode* current, string path) {
+        if(!current) return;
+        path += to_string(current->val) + "->";
+        if(!current->left && !current->right) {
+            path.pop_back(); path.pop_back();
+            paths.push_back(path);
         }
-        paths(root->left, ans, s);
-        paths(root->right, ans, s);
+        preorder(current->right, path);
+        preorder(current->left, path);
     }
+
     vector<string> binaryTreePaths(TreeNode* root) {
-        vector<string> ans;
-        string s = "";
-        paths(root, ans, s);
-        return ans;
+        preorder(root, "");
+        return paths;
     }
 };
