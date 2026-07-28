@@ -15,11 +15,11 @@ public:
         if(root == NULL) return;
         int val = root->val;
         if(root->left == NULL && root->right == NULL) s += to_string(val);
+        else s += to_string(val) + "->";
         if(root->left == NULL && root->right == NULL){
             ans.push_back(s);
             return;
         }
-        else s += to_string(val) + "->";
         paths(root->left, ans, s);
         paths(root->right, ans, s);
     }
