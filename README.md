@@ -88,6 +88,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0067-add-binary](https://github.com/sabhya1290/LeetCode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/sabhya1290/LeetCode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/sabhya1290/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0257-binary-tree-paths](https://github.com/sabhya1290/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sabhya1290/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/sabhya1290/LeetCode/tree/master/0402-remove-k-digits) |
 | [0449-serialize-and-deserialize-bst](https://github.com/sabhya1290/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
@@ -382,6 +383,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sabhya1290/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sabhya1290/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sabhya1290/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/sabhya1290/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sabhya1290/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/sabhya1290/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/sabhya1290/LeetCode/tree/master/0450-delete-node-in-a-bst) |
@@ -411,6 +413,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sabhya1290/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sabhya1290/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sabhya1290/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/sabhya1290/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sabhya1290/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/sabhya1290/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/sabhya1290/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -444,6 +447,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sabhya1290/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sabhya1290/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sabhya1290/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/sabhya1290/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sabhya1290/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/sabhya1290/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/sabhya1290/LeetCode/tree/master/0450-delete-node-in-a-bst) |
@@ -499,4 +503,8 @@ The repository is organized by topic to keep the solutions easy to navigate:
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sabhya1290/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/sabhya1290/LeetCode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
