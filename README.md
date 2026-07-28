@@ -168,6 +168,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sabhya1290/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/sabhya1290/LeetCode/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/sabhya1290/LeetCode/tree/master/0092-reverse-linked-list-ii) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sabhya1290/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sabhya1290/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/sabhya1290/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/sabhya1290/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -247,6 +248,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sabhya1290/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sabhya1290/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sabhya1290/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sabhya1290/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/sabhya1290/LeetCode/tree/master/0148-sort-list) |
 ## Sorting
 |  |
@@ -364,6 +366,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sabhya1290/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sabhya1290/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sabhya1290/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sabhya1290/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/sabhya1290/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sabhya1290/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sabhya1290/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -425,6 +428,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sabhya1290/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sabhya1290/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sabhya1290/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sabhya1290/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/sabhya1290/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sabhya1290/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sabhya1290/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -472,6 +476,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0098-validate-binary-search-tree](https://github.com/sabhya1290/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/sabhya1290/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sabhya1290/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sabhya1290/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/sabhya1290/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sabhya1290/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sabhya1290/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
