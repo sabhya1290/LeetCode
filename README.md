@@ -69,6 +69,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0146-lru-cache](https://github.com/sabhya1290/LeetCode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sabhya1290/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/sabhya1290/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/sabhya1290/LeetCode/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sabhya1290/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0706-design-hashmap](https://github.com/sabhya1290/LeetCode/tree/master/0706-design-hashmap) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sabhya1290/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -126,6 +127,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0455-assign-cookies](https://github.com/sabhya1290/LeetCode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/sabhya1290/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sabhya1290/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0621-task-scheduler](https://github.com/sabhya1290/LeetCode/tree/master/0621-task-scheduler) |
 | [0706-design-hashmap](https://github.com/sabhya1290/LeetCode/tree/master/0706-design-hashmap) |
 | [0735-asteroid-collision](https://github.com/sabhya1290/LeetCode/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/sabhya1290/LeetCode/tree/master/0860-lemonade-change) |
@@ -156,6 +158,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/sabhya1290/LeetCode/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/sabhya1290/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 ## Linked List
 |  |
@@ -264,6 +267,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0215-kth-largest-element-in-an-array](https://github.com/sabhya1290/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/sabhya1290/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/sabhya1290/LeetCode/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/sabhya1290/LeetCode/tree/master/0621-task-scheduler) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sabhya1290/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Merge Sort
 |  |
@@ -329,6 +333,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0402-remove-k-digits](https://github.com/sabhya1290/LeetCode/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/sabhya1290/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/sabhya1290/LeetCode/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/sabhya1290/LeetCode/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/sabhya1290/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/sabhya1290/LeetCode/tree/master/0860-lemonade-change) |
 ## Matrix
@@ -341,6 +346,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0023-merge-k-sorted-lists](https://github.com/sabhya1290/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sabhya1290/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/sabhya1290/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/sabhya1290/LeetCode/tree/master/0621-task-scheduler) |
 ## Monotonic Queue
 |  |
 | ------- |
