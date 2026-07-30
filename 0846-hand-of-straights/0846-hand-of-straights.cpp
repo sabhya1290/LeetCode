@@ -1,27 +1,38 @@
 class Solution {
 public:
     bool isNStraightHand(vector<int>& hand, int groupSize) {
-        int n = hand.size();
-        if(n % groupSize != 0) { cout << hand.size(); return false;}
-        map<int, int> freq;
-        for(int i: hand){
-            freq[i]++;
+        unordered_map<int,int>m;
+        for(auto x:hand){
+            m[x]++;
         }
-        auto it = freq.begin();
-        while(it != freq.end()){
-            if(it->second == 0){
-                ++it;
-                continue;
-            }
-            int start = it->first;
-            int count = it->second;
+        priority_queue<int>pq;
+        for(auto x:m){
+            pq.push(x.first);
+        }
+        queue<int>temp;
+        while(!pq.empty()){
+            int t=pq.top();
+            pq.pop();
+            m[t]--;
+            if(m[t]>0) temp.push(t);
+            int prev=t;
 
-            for(int i = 0; i < groupSize; i++){
-                if(freq[start + i] < count) return false;
-                freq[start + i] -= count;
+            for(int i=1;i<groupSize;i++){
+                if(pq.empty()) return false;
+                int t=pq.top();
+                if(t+1!=prev) return false;
+                pq.pop();
+                m[t]--;
+                if(m[t]>0) temp.push(t);
+                prev=t;
             }
-            it++;
+
+            while(!temp.empty()){
+                pq.push(temp.front());
+                temp.pop();
+            }
         }
         return true;
+        
     }
 };
