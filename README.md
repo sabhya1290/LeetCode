@@ -431,6 +431,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sabhya1290/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/sabhya1290/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/sabhya1290/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/sabhya1290/LeetCode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/sabhya1290/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sabhya1290/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sabhya1290/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -484,6 +485,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0199-binary-tree-right-side-view](https://github.com/sabhya1290/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sabhya1290/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/sabhya1290/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
+| [0547-number-of-provinces](https://github.com/sabhya1290/LeetCode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/sabhya1290/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sabhya1290/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sabhya1290/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -521,4 +523,12 @@ The repository is organized by topic to keep the solutions easy to navigate:
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/sabhya1290/LeetCode/tree/master/0257-binary-tree-paths) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/sabhya1290/LeetCode/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/sabhya1290/LeetCode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
