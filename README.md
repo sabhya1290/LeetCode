@@ -128,6 +128,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0455-assign-cookies](https://github.com/sabhya1290/LeetCode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/sabhya1290/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sabhya1290/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0542-01-matrix](https://github.com/sabhya1290/LeetCode/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/sabhya1290/LeetCode/tree/master/0621-task-scheduler) |
 | [0706-design-hashmap](https://github.com/sabhya1290/LeetCode/tree/master/0706-design-hashmap) |
 | [0733-flood-fill](https://github.com/sabhya1290/LeetCode/tree/master/0733-flood-fill) |
@@ -320,6 +321,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0085-maximal-rectangle](https://github.com/sabhya1290/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sabhya1290/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/sabhya1290/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0542-01-matrix](https://github.com/sabhya1290/LeetCode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/sabhya1290/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/sabhya1290/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/sabhya1290/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -346,6 +348,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/sabhya1290/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0542-01-matrix](https://github.com/sabhya1290/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/sabhya1290/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/sabhya1290/LeetCode/tree/master/0994-rotting-oranges) |
 ## Heap (Priority Queue)
@@ -490,6 +493,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0199-binary-tree-right-side-view](https://github.com/sabhya1290/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sabhya1290/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/sabhya1290/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
+| [0542-01-matrix](https://github.com/sabhya1290/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/sabhya1290/LeetCode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/sabhya1290/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sabhya1290/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
