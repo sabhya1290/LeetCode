@@ -140,6 +140,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0992-subarrays-with-k-different-integers](https://github.com/sabhya1290/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/sabhya1290/LeetCode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sabhya1290/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1020-number-of-enclaves](https://github.com/sabhya1290/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sabhya1290/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sabhya1290/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2104-sum-of-subarray-ranges](https://github.com/sabhya1290/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
@@ -353,6 +354,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0542-01-matrix](https://github.com/sabhya1290/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/sabhya1290/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/sabhya1290/LeetCode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/sabhya1290/LeetCode/tree/master/1020-number-of-enclaves) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -447,6 +449,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0733-flood-fill](https://github.com/sabhya1290/LeetCode/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sabhya1290/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sabhya1290/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/sabhya1290/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/sabhya1290/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -505,6 +508,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sabhya1290/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sabhya1290/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/sabhya1290/LeetCode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/sabhya1290/LeetCode/tree/master/1020-number-of-enclaves) |
 ## Binary Search
 |  |
 | ------- |
@@ -543,6 +547,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | ------- |
 | [0130-surrounded-regions](https://github.com/sabhya1290/LeetCode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/sabhya1290/LeetCode/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/sabhya1290/LeetCode/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
