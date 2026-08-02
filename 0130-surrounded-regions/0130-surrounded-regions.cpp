@@ -2,9 +2,6 @@ class Solution {
 public:
     vector<pair<int, int>> dirs = {{1, 0}, {0, 1}, {0, -1}, {-1, 0}};
     void dfs(vector<vector<char>>& board, vector<vector<int>>& vis, int row, int col){
-        if(row < 0 || row >= board.size() || col < 0 || col >= board[0].size()){
-            return;
-        }
         vis[row][col] = 1;        
         for(auto [x, y]: dirs){
             int i = row + x;
