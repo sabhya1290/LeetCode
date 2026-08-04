@@ -1,32 +1,43 @@
 class Solution {
 public:
-    bool canFinish(int n, vector<vector<int>>& pre) {
-        
-        vector<vector<int>> adj(n);
-        vector<int> in(n);
-
-        for(auto it: pre){
-            int u = it[0], v = it[1];
-            adj[v].push_back(u);
-            in[u]++;
-        }
-        
-        queue<int> q;
-
-        for(int i = 0; i < n; i++){
-            if(in[i] == 0) q.push(i);
-        }
-        
-        int cnt = 0;
-        while(!q.empty()){
-            int node = q.front();
-            q.pop();
-            cnt++;
-            for(auto it: adj[node]){
-                in[it]--;
-                if(in[it] == 0) q.push(it);
+    bool dfs(int node, vector<vector<int>> &adj, vector<int> &state)
+    {
+        state[node]= 1;
+        for(int nei:adj[node])
+        {
+            if(state[nei]== 1)
+            {
+                return false;
+            }
+            if(state[nei]== 0)
+            {
+                if(!dfs(nei, adj, state))
+                {
+                    return false;
+                }
             }
         }
-        return cnt == n;
+            state [node]= 2;
+            return true;
+    }
+    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) 
+    {
+        vector<vector<int>> adj(numCourses);
+        for(auto &p: prerequisites)
+        {
+            adj[p[1]].push_back(p[0]);
+        }    
+        vector<int> state(numCourses, 0);
+        for(int i= 0; i< numCourses; i++)
+        {
+            if(state[i]== 0)
+            {
+                if(!dfs(i, adj, state))
+                {
+                    return false;
+                }
+            }
+        }
+        return true;
     }
 };
