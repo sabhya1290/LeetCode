@@ -1,47 +1,35 @@
 class Solution {
 public:
+    vector<int> dx = {-1, 1, 0, 0, -1, -1, 1, 1};
+    vector<int> dy = {0, 0, -1, 1, -1, 1, -1, 1};
+
+    bool check(int i, int j, int n, int m) {
+        return i>=0 && j>=0 && i<n && j<m;
+    }
+
     int shortestPathBinaryMatrix(vector<vector<int>>& grid) {
-        int n = grid.size();
-        if(grid[0][0] || grid[n - 1][n - 1]) return -1;
-        if (grid[0][0] == 0 && grid.size() == 1 && grid[0].size() == 1)
-            return 1;
+        int n = grid.size(), m = grid.back().size();
+    
+        vector<vector<int>>dst(n, vector<int>(m, INT_MAX));
+        dst[0][0] = 0;
 
-        vector<vector<int>> dis(n, vector<int>(n, 1e9));
-        dis[0][0] = 0;
-        queue<pair<int, int>> q;
-        int targetX = n - 1;
-        int targetY = n - 1;
-        
-        int dx[] = {1, -1, 0, 1, 0, -1, -1, 1};
-        int dy[] = {1, -1, 1, 0, -1, 0, 1, -1};
-
-
-        int cnt = 0;
+        queue<pair<int, int>>q;
         q.push({0, 0});
-        while (!q.empty()) {
-            int N = q.size(); 
-            for (int i = 0; i < N; i++) {
-                int x = q.front().first;
-                int y = q.front().second;
-                int pD = dis[x][y]; 
-                q.pop();
-                
-                for (int d = 0; d < 8; d++) {
-                    int newX = x + dx[d];
-                    int newY = y + dy[d];
-                    
-                    if (newX >= 0 && newY >= 0 && newX < n && newY < n &&
-                        grid[newX][newY] == 0 && pD + 1 < dis[newX][newY]) {
-                        if (newX == targetX && newY == targetY)
-                            return pD + 2;
-                            
-                        q.push({newX, newY});
-                        dis[newX][newY] = pD + 1; 
-                    }
+        while(q.size()) {
+            int cr = q.front().first, cc = q.front().second;
+            q.pop();
+
+            for(int d=0;d<8;d++) {
+                int nxr = cr + dx[d], nxc = cc + dy[d];
+                int nxDst = dst[cr][cc] + 1;
+
+                if(check(nxr, nxc, n, m) && grid[nxr][nxc] == 0 && nxDst < dst[nxr][nxc]) {
+                    dst[nxr][nxc] = nxDst;
+                    q.push({nxr, nxc});
                 }
             }
         }
-        
-        return -1;
+
+        return ((grid[0][0]==1 || dst[n-1][m-1]==INT_MAX)? -1: dst[n-1][m-1]+1);
     }
 };
