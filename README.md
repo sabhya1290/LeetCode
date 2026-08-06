@@ -336,6 +336,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0787-cheapest-flights-within-k-stops](https://github.com/sabhya1290/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/sabhya1290/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/sabhya1290/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/sabhya1290/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Simulation
 |  |
 | ------- |
@@ -599,6 +600,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0787-cheapest-flights-within-k-stops](https://github.com/sabhya1290/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/sabhya1290/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/sabhya1290/LeetCode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/sabhya1290/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -613,6 +615,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0207-course-schedule](https://github.com/sabhya1290/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sabhya1290/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/sabhya1290/LeetCode/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/sabhya1290/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -634,8 +637,10 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | ------- |
 | [0743-network-delay-time](https://github.com/sabhya1290/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sabhya1290/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/sabhya1290/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/sabhya1290/LeetCode/tree/master/0743-network-delay-time) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/sabhya1290/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
