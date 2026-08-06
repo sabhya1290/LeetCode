@@ -373,6 +373,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0215-kth-largest-element-in-an-array](https://github.com/sabhya1290/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/sabhya1290/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0621-task-scheduler](https://github.com/sabhya1290/LeetCode/tree/master/0621-task-scheduler) |
+| [0743-network-delay-time](https://github.com/sabhya1290/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sabhya1290/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Monotonic Queue
 |  |
@@ -466,6 +467,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0617-merge-two-binary-trees](https://github.com/sabhya1290/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sabhya1290/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/sabhya1290/LeetCode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/sabhya1290/LeetCode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/sabhya1290/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sabhya1290/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/sabhya1290/LeetCode/tree/master/0802-find-eventual-safe-states) |
@@ -534,6 +536,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0617-merge-two-binary-trees](https://github.com/sabhya1290/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sabhya1290/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/sabhya1290/LeetCode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/sabhya1290/LeetCode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/sabhya1290/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sabhya1290/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/sabhya1290/LeetCode/tree/master/0802-find-eventual-safe-states) |
@@ -591,6 +594,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0207-course-schedule](https://github.com/sabhya1290/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sabhya1290/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/sabhya1290/LeetCode/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/sabhya1290/LeetCode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/sabhya1290/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sabhya1290/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/sabhya1290/LeetCode/tree/master/0802-find-eventual-safe-states) |
@@ -628,5 +632,10 @@ The repository is organized by topic to keep the solutions easy to navigate:
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/sabhya1290/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sabhya1290/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/sabhya1290/LeetCode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
