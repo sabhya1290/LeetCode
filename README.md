@@ -147,6 +147,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [1091-shortest-path-in-binary-matrix](https://github.com/sabhya1290/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sabhya1290/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sabhya1290/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1631-path-with-minimum-effort](https://github.com/sabhya1290/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/sabhya1290/LeetCode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [2104-sum-of-subarray-ranges](https://github.com/sabhya1290/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2574-left-and-right-sum-differences](https://github.com/sabhya1290/LeetCode/tree/master/2574-left-and-right-sum-differences) |
@@ -367,6 +368,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0994-rotting-oranges](https://github.com/sabhya1290/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/sabhya1290/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sabhya1290/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/sabhya1290/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -376,6 +378,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0621-task-scheduler](https://github.com/sabhya1290/LeetCode/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/sabhya1290/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sabhya1290/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1631-path-with-minimum-effort](https://github.com/sabhya1290/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -476,6 +479,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sabhya1290/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/sabhya1290/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/sabhya1290/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/sabhya1290/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -546,10 +550,12 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0994-rotting-oranges](https://github.com/sabhya1290/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/sabhya1290/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sabhya1290/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/sabhya1290/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Binary Search
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/sabhya1290/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [1631-path-with-minimum-effort](https://github.com/sabhya1290/LeetCode/tree/master/1631-path-with-minimum-effort) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -588,6 +594,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0547-number-of-provinces](https://github.com/sabhya1290/LeetCode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/sabhya1290/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/sabhya1290/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/sabhya1290/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/sabhya1290/LeetCode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 ## Graph Theory
 |  |
@@ -642,5 +649,6 @@ The repository is organized by topic to keep the solutions easy to navigate:
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/sabhya1290/LeetCode/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/sabhya1290/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/sabhya1290/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
