@@ -1,10 +1,12 @@
 class Solution {
 public:
     vector<int> topKFrequent(vector<int>& nums, int k) {
+        // Hash map to count frequencies of each number
         unordered_map<int, int> freq;
 
+        // Count frequencies
         for (int& num : nums)
-            freq[num]++; 
+            freq[num]++; // Increment frequency count for each number
 
         priority_queue<pair<int, int>, vector<pair<int, int>>,
                        greater<pair<int, int>>>
