@@ -130,6 +130,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0215-kth-largest-element-in-an-array](https://github.com/sabhya1290/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/sabhya1290/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/sabhya1290/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/sabhya1290/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0435-non-overlapping-intervals](https://github.com/sabhya1290/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/sabhya1290/LeetCode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/sabhya1290/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -381,6 +382,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0215-kth-largest-element-in-an-array](https://github.com/sabhya1290/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/sabhya1290/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/sabhya1290/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/sabhya1290/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0621-task-scheduler](https://github.com/sabhya1290/LeetCode/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/sabhya1290/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sabhya1290/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
