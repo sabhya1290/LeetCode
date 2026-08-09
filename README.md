@@ -65,6 +65,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sabhya1290/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/sabhya1290/LeetCode/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/sabhya1290/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/sabhya1290/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/sabhya1290/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sabhya1290/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/sabhya1290/LeetCode/tree/master/0146-lru-cache) |
@@ -93,6 +94,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0071-simplify-path](https://github.com/sabhya1290/LeetCode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/sabhya1290/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/sabhya1290/LeetCode/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/sabhya1290/LeetCode/tree/master/0139-word-break) |
 | [0257-binary-tree-paths](https://github.com/sabhya1290/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sabhya1290/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/sabhya1290/LeetCode/tree/master/0402-remove-k-digits) |
@@ -126,6 +128,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sabhya1290/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0130-surrounded-regions](https://github.com/sabhya1290/LeetCode/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/sabhya1290/LeetCode/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/sabhya1290/LeetCode/tree/master/0139-word-break) |
 | [0200-number-of-islands](https://github.com/sabhya1290/LeetCode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sabhya1290/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/sabhya1290/LeetCode/tree/master/0239-sliding-window-maximum) |
@@ -337,6 +340,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0055-jump-game](https://github.com/sabhya1290/LeetCode/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/sabhya1290/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sabhya1290/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/sabhya1290/LeetCode/tree/master/0139-word-break) |
 | [0435-non-overlapping-intervals](https://github.com/sabhya1290/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/sabhya1290/LeetCode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/sabhya1290/LeetCode/tree/master/0678-valid-parenthesis-string) |
@@ -676,4 +680,16 @@ The repository is organized by topic to keep the solutions easy to navigate:
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sabhya1290/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/sabhya1290/LeetCode/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/sabhya1290/LeetCode/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/sabhya1290/LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
