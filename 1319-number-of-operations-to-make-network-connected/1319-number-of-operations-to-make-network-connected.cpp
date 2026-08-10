@@ -35,21 +35,20 @@ public:
 class Solution {
 public:
     int makeConnected(int n, vector<vector<int>>& connections) {
+        if (connections.size() < n - 1) {
+            return -1;
+        }
+        
         DisjointSet DS(n);
 
-        int cnt = 0;
-        int con = 0;
+        int cnt = n;
         
         for(auto it: connections){
             int u = it[0];
             int v = it[1];
-            
-            if(DS.unionBySize(u, v)) cnt++;
-            else con++;
-
+            if(DS.unionBySize(u, v)) cnt--;
         }
 
-        if(cnt + con >= n - 1) return n - cnt - 1;
-        return -1;
+        return cnt - 1;
     }
 };
