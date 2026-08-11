@@ -75,6 +75,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0621-task-scheduler](https://github.com/sabhya1290/LeetCode/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sabhya1290/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0706-design-hashmap](https://github.com/sabhya1290/LeetCode/tree/master/0706-design-hashmap) |
+| [0721-accounts-merge](https://github.com/sabhya1290/LeetCode/tree/master/0721-accounts-merge) |
 | [0846-hand-of-straights](https://github.com/sabhya1290/LeetCode/tree/master/0846-hand-of-straights) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sabhya1290/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/sabhya1290/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -101,6 +102,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0402-remove-k-digits](https://github.com/sabhya1290/LeetCode/tree/master/0402-remove-k-digits) |
 | [0449-serialize-and-deserialize-bst](https://github.com/sabhya1290/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0678-valid-parenthesis-string](https://github.com/sabhya1290/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0721-accounts-merge](https://github.com/sabhya1290/LeetCode/tree/master/0721-accounts-merge) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sabhya1290/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sabhya1290/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
@@ -142,6 +144,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0542-01-matrix](https://github.com/sabhya1290/LeetCode/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/sabhya1290/LeetCode/tree/master/0621-task-scheduler) |
 | [0706-design-hashmap](https://github.com/sabhya1290/LeetCode/tree/master/0706-design-hashmap) |
+| [0721-accounts-merge](https://github.com/sabhya1290/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/sabhya1290/LeetCode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/sabhya1290/LeetCode/tree/master/0735-asteroid-collision) |
 | [0846-hand-of-straights](https://github.com/sabhya1290/LeetCode/tree/master/0846-hand-of-straights) |
@@ -293,6 +296,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0435-non-overlapping-intervals](https://github.com/sabhya1290/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/sabhya1290/LeetCode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/sabhya1290/LeetCode/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/sabhya1290/LeetCode/tree/master/0721-accounts-merge) |
 | [0846-hand-of-straights](https://github.com/sabhya1290/LeetCode/tree/master/0846-hand-of-straights) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sabhya1290/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/sabhya1290/LeetCode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
@@ -484,6 +488,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0547-number-of-provinces](https://github.com/sabhya1290/LeetCode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/sabhya1290/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sabhya1290/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/sabhya1290/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/sabhya1290/LeetCode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/sabhya1290/LeetCode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/sabhya1290/LeetCode/tree/master/0785-is-graph-bipartite) |
@@ -556,6 +561,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0547-number-of-provinces](https://github.com/sabhya1290/LeetCode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/sabhya1290/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sabhya1290/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/sabhya1290/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/sabhya1290/LeetCode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/sabhya1290/LeetCode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/sabhya1290/LeetCode/tree/master/0785-is-graph-bipartite) |
@@ -610,6 +616,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0130-surrounded-regions](https://github.com/sabhya1290/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sabhya1290/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/sabhya1290/LeetCode/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/sabhya1290/LeetCode/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/sabhya1290/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/sabhya1290/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/sabhya1290/LeetCode/tree/master/1020-number-of-enclaves) |
