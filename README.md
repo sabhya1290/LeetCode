@@ -83,6 +83,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0992-subarrays-with-k-different-integers](https://github.com/sabhya1290/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sabhya1290/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sabhya1290/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/sabhya1290/LeetCode/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sabhya1290/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
@@ -157,6 +158,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [1091-shortest-path-in-binary-matrix](https://github.com/sabhya1290/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sabhya1290/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sabhya1290/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/sabhya1290/LeetCode/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1631-path-with-minimum-effort](https://github.com/sabhya1290/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/sabhya1290/LeetCode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [2104-sum-of-subarray-ranges](https://github.com/sabhya1290/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
@@ -177,6 +179,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/sabhya1290/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sabhya1290/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/sabhya1290/LeetCode/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [2574-left-and-right-sum-differences](https://github.com/sabhya1290/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sabhya1290/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Counting
@@ -373,6 +376,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0678-valid-parenthesis-string](https://github.com/sabhya1290/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0846-hand-of-straights](https://github.com/sabhya1290/LeetCode/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/sabhya1290/LeetCode/tree/master/0860-lemonade-change) |
+| [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/sabhya1290/LeetCode/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 ## Matrix
 |  |
 | ------- |
