@@ -1,20 +1,31 @@
 class Solution {
 public:
     int maxNonOverlapping(vector<int>& nums, int target) {
-        unordered_map<int, int> dp;
-        dp[0] = -1;
-        int sum = 0, right = -1, cnt = 0;
-        for (int i = 0; i < nums.size(); ++i) {
+        int n=nums.size();
+
+        unordered_map<int,int> mp;
+        mp[0]=-1;
+
+        int idx=-1, cnt=0;
+
+        long long sum=0;
+        
+        for(int i=0; i<n; i++) {
             sum += nums[i];
-            if (dp.count(sum - target)) {
-                int left = dp[sum - target];
-                if (right <= left) {
-                    ++cnt;
-                    right = i;
+
+            long long T = sum-target;
+
+            if(mp.find(T) != mp.end()) {
+                if(mp[T] >= idx) {
+                    idx = i;
+                    cnt++;
+                    sum=0;
                 }
             }
-            dp[sum] = i;
+
+            mp[sum]=i;
         }
+        
         return cnt;
     }
 };
