@@ -174,6 +174,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0002-add-two-numbers](https://github.com/sabhya1290/LeetCode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/sabhya1290/LeetCode/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/sabhya1290/LeetCode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/sabhya1290/LeetCode/tree/master/0070-climbing-stairs) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sabhya1290/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sabhya1290/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sabhya1290/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -351,6 +352,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0042-trapping-rain-water](https://github.com/sabhya1290/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/sabhya1290/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sabhya1290/LeetCode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/sabhya1290/LeetCode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/sabhya1290/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0097-interleaving-string](https://github.com/sabhya1290/LeetCode/tree/master/0097-interleaving-string) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sabhya1290/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -719,6 +721,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sabhya1290/LeetCode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/sabhya1290/LeetCode/tree/master/0139-word-break) |
 ## Brute-Force Search
 |  |
