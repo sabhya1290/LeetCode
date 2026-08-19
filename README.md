@@ -135,6 +135,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0130-surrounded-regions](https://github.com/sabhya1290/LeetCode/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/sabhya1290/LeetCode/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/sabhya1290/LeetCode/tree/master/0139-word-break) |
+| [0198-house-robber](https://github.com/sabhya1290/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/sabhya1290/LeetCode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sabhya1290/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/sabhya1290/LeetCode/tree/master/0239-sliding-window-maximum) |
@@ -357,6 +358,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0097-interleaving-string](https://github.com/sabhya1290/LeetCode/tree/master/0097-interleaving-string) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sabhya1290/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/sabhya1290/LeetCode/tree/master/0139-word-break) |
+| [0198-house-robber](https://github.com/sabhya1290/LeetCode/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/sabhya1290/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/sabhya1290/LeetCode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/sabhya1290/LeetCode/tree/master/0678-valid-parenthesis-string) |
