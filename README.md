@@ -71,6 +71,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0146-lru-cache](https://github.com/sabhya1290/LeetCode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sabhya1290/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0347-top-k-frequent-elements](https://github.com/sabhya1290/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0398-random-pick-index](https://github.com/sabhya1290/LeetCode/tree/master/0398-random-pick-index) |
 | [0457-circular-array-loop](https://github.com/sabhya1290/LeetCode/tree/master/0457-circular-array-loop) |
 | [0496-next-greater-element-i](https://github.com/sabhya1290/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/sabhya1290/LeetCode/tree/master/0621-task-scheduler) |
@@ -177,6 +178,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0012-integer-to-roman](https://github.com/sabhya1290/LeetCode/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/sabhya1290/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/sabhya1290/LeetCode/tree/master/0070-climbing-stairs) |
+| [0398-random-pick-index](https://github.com/sabhya1290/LeetCode/tree/master/0398-random-pick-index) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sabhya1290/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sabhya1290/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sabhya1290/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -743,4 +745,12 @@ The repository is organized by topic to keep the solutions easy to navigate:
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/sabhya1290/LeetCode/tree/master/1192-critical-connections-in-a-network) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/sabhya1290/LeetCode/tree/master/0398-random-pick-index) |
+## Randomized
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/sabhya1290/LeetCode/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
