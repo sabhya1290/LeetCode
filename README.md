@@ -141,6 +141,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0213-house-robber-ii](https://github.com/sabhya1290/LeetCode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sabhya1290/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/sabhya1290/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0289-game-of-life](https://github.com/sabhya1290/LeetCode/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/sabhya1290/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/sabhya1290/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/sabhya1290/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -377,6 +378,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sabhya1290/LeetCode/tree/master/0067-add-binary) |
+| [0289-game-of-life](https://github.com/sabhya1290/LeetCode/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/sabhya1290/LeetCode/tree/master/0735-asteroid-collision) |
 ## Greedy
 |  |
@@ -399,6 +401,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0085-maximal-rectangle](https://github.com/sabhya1290/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/sabhya1290/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sabhya1290/LeetCode/tree/master/0200-number-of-islands) |
+| [0289-game-of-life](https://github.com/sabhya1290/LeetCode/tree/master/0289-game-of-life) |
 | [0542-01-matrix](https://github.com/sabhya1290/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/sabhya1290/LeetCode/tree/master/0733-flood-fill) |
 | [0827-making-a-large-island](https://github.com/sabhya1290/LeetCode/tree/master/0827-making-a-large-island) |
