@@ -145,6 +145,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0300-longest-increasing-subsequence](https://github.com/sabhya1290/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/sabhya1290/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/sabhya1290/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0384-shuffle-an-array](https://github.com/sabhya1290/LeetCode/tree/master/0384-shuffle-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/sabhya1290/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/sabhya1290/LeetCode/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/sabhya1290/LeetCode/tree/master/0457-circular-array-loop) |
@@ -180,6 +181,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0012-integer-to-roman](https://github.com/sabhya1290/LeetCode/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/sabhya1290/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/sabhya1290/LeetCode/tree/master/0070-climbing-stairs) |
+| [0384-shuffle-an-array](https://github.com/sabhya1290/LeetCode/tree/master/0384-shuffle-an-array) |
 | [0398-random-pick-index](https://github.com/sabhya1290/LeetCode/tree/master/0398-random-pick-index) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sabhya1290/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sabhya1290/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -329,6 +331,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0225-implement-stack-using-queues](https://github.com/sabhya1290/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sabhya1290/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sabhya1290/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0384-shuffle-an-array](https://github.com/sabhya1290/LeetCode/tree/master/0384-shuffle-an-array) |
 | [0449-serialize-and-deserialize-bst](https://github.com/sabhya1290/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0706-design-hashmap](https://github.com/sabhya1290/LeetCode/tree/master/0706-design-hashmap) |
 | [0901-online-stock-span](https://github.com/sabhya1290/LeetCode/tree/master/0901-online-stock-span) |
@@ -758,6 +761,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 ## Randomized
 |  |
 | ------- |
+| [0384-shuffle-an-array](https://github.com/sabhya1290/LeetCode/tree/master/0384-shuffle-an-array) |
 | [0398-random-pick-index](https://github.com/sabhya1290/LeetCode/tree/master/0398-random-pick-index) |
 ## Longest Increasing Subsequence
 |  |
