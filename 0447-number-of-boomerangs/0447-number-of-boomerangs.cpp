@@ -1,19 +1,26 @@
+#include <unordered_map>
+
 class Solution {
 public:
     int numberOfBoomerangs(vector<vector<int>>& points) {
-       int ans=0;
-       for(int i=0;i<points.size();i++){
-        unordered_map<int,int>freq;
-        for(int j=0;j<points.size();j++){
-            if(i==j) continue;
-            int dx=points[i][0]-points[j][0];
-            int dy=points[i][1]-points[j][1];
+        unordered_map<int, int> distToNumber;
+        int boo = 0;
 
-            int dist=dx*dx+dy*dy;
-            ans+=2*freq[dist];
-            freq[dist]++;
+        for (int i = 0; i < points.size(); ++i) {
+            for (int j = 0; j < points.size(); ++j) {
+                int dist = getDistance(points[i], points[j]);
+                distToNumber[dist]++;
+            }
+            for (const auto& [k, v]: distToNumber) {
+                boo += v*(v-1);
+            }
+            distToNumber.clear();
         }
-       }
-       return ans; 
+
+        return boo;
+    }
+
+    int getDistance(const vector<int>& a, const vector<int>& b) {
+        return (a[0] - b[0]) * (a[0] - b[0]) + (a[1] - b[1]) * (a[1] - b[1]);
     }
 };
