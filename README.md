@@ -72,6 +72,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0160-intersection-of-two-linked-lists](https://github.com/sabhya1290/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0347-top-k-frequent-elements](https://github.com/sabhya1290/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0398-random-pick-index](https://github.com/sabhya1290/LeetCode/tree/master/0398-random-pick-index) |
+| [0447-number-of-boomerangs](https://github.com/sabhya1290/LeetCode/tree/master/0447-number-of-boomerangs) |
 | [0457-circular-array-loop](https://github.com/sabhya1290/LeetCode/tree/master/0457-circular-array-loop) |
 | [0496-next-greater-element-i](https://github.com/sabhya1290/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/sabhya1290/LeetCode/tree/master/0621-task-scheduler) |
@@ -147,6 +148,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/sabhya1290/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0384-shuffle-an-array](https://github.com/sabhya1290/LeetCode/tree/master/0384-shuffle-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/sabhya1290/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0447-number-of-boomerangs](https://github.com/sabhya1290/LeetCode/tree/master/0447-number-of-boomerangs) |
 | [0455-assign-cookies](https://github.com/sabhya1290/LeetCode/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/sabhya1290/LeetCode/tree/master/0457-circular-array-loop) |
 | [0496-next-greater-element-i](https://github.com/sabhya1290/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -183,6 +185,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0070-climbing-stairs](https://github.com/sabhya1290/LeetCode/tree/master/0070-climbing-stairs) |
 | [0384-shuffle-an-array](https://github.com/sabhya1290/LeetCode/tree/master/0384-shuffle-an-array) |
 | [0398-random-pick-index](https://github.com/sabhya1290/LeetCode/tree/master/0398-random-pick-index) |
+| [0447-number-of-boomerangs](https://github.com/sabhya1290/LeetCode/tree/master/0447-number-of-boomerangs) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sabhya1290/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sabhya1290/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sabhya1290/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
