@@ -149,6 +149,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0384-shuffle-an-array](https://github.com/sabhya1290/LeetCode/tree/master/0384-shuffle-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/sabhya1290/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0447-number-of-boomerangs](https://github.com/sabhya1290/LeetCode/tree/master/0447-number-of-boomerangs) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sabhya1290/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/sabhya1290/LeetCode/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/sabhya1290/LeetCode/tree/master/0457-circular-array-loop) |
 | [0496-next-greater-element-i](https://github.com/sabhya1290/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -314,6 +315,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0215-kth-largest-element-in-an-array](https://github.com/sabhya1290/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sabhya1290/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/sabhya1290/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sabhya1290/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/sabhya1290/LeetCode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/sabhya1290/LeetCode/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/sabhya1290/LeetCode/tree/master/0721-accounts-merge) |
@@ -395,6 +397,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0135-candy](https://github.com/sabhya1290/LeetCode/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/sabhya1290/LeetCode/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/sabhya1290/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sabhya1290/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/sabhya1290/LeetCode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/sabhya1290/LeetCode/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/sabhya1290/LeetCode/tree/master/0678-valid-parenthesis-string) |
