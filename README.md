@@ -182,6 +182,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | ------- |
 | [0002-add-two-numbers](https://github.com/sabhya1290/LeetCode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/sabhya1290/LeetCode/tree/master/0012-integer-to-roman) |
+| [0062-unique-paths](https://github.com/sabhya1290/LeetCode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/sabhya1290/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/sabhya1290/LeetCode/tree/master/0070-climbing-stairs) |
 | [0384-shuffle-an-array](https://github.com/sabhya1290/LeetCode/tree/master/0384-shuffle-an-array) |
@@ -366,6 +367,7 @@ The repository is organized by topic to keep the solutions easy to navigate:
 | [0042-trapping-rain-water](https://github.com/sabhya1290/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/sabhya1290/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sabhya1290/LeetCode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/sabhya1290/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sabhya1290/LeetCode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/sabhya1290/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0097-interleaving-string](https://github.com/sabhya1290/LeetCode/tree/master/0097-interleaving-string) |
@@ -773,4 +775,8 @@ The repository is organized by topic to keep the solutions easy to navigate:
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/sabhya1290/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/sabhya1290/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
