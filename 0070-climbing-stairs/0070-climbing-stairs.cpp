@@ -7,9 +7,14 @@ private:
     }
 public:
     int climbStairs(int n) {
-        vector<int> vec(n + 1, -1);
+        vector<int> v(n + 1, -1);
 
-        int ans = rec(n, vec); 
-        return ans;
+        for(int i = 1; i < n + 1; i++){
+            if(i == 1 || i == 2) v[i] = i;
+            else{
+                v[i] = v[i - 1] + v[i - 2];
+            }
+        }
+        return v[n];
     }
 };
