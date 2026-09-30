@@ -1,14 +1,15 @@
 class Solution {
 private:
-    int rec(int n, vector<int>& dp){
+    int rec(int n, vector<int> &v){
         if(n <= 2) return n;
-        if(dp[n] != -1) return dp[n];
-        return dp[n] = rec(n - 1, dp) + rec(n - 2, dp);
+        if(v[n] != -1) return v[n];
+        return v[n] = rec(n - 1, v) + rec(n - 2, v);
     }
 public:
     int climbStairs(int n) {
-        vector<int> ans(n + 1, -1);
-        int b = rec(n, ans);
-        return b;
+        vector<int> vec(n + 1, -1);
+
+        int ans = rec(n, vec); 
+        return ans;
     }
 };
